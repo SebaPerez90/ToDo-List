@@ -20,7 +20,9 @@
 <strong>✔️ Delete from the list some task</strong><br>
 <strong>✔️ take control of your day</strong><br>
 
+
 <video src="./public/example.mp4" width="600" height="400" autoplay muted loop></video>
+
 
 ## APPLIED TECHNOLOGIES :
 <br>
