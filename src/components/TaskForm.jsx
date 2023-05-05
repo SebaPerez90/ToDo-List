@@ -12,7 +12,7 @@ const TaskForm = () => {
 				className='flex justify-center content-center mt-14 '
 				onSubmit={handleSubmit}>
 				<input
-					className='formSection-input text-xl outline-none p-3 drop-shadow-xl placeholder:italic rounded-l-md w-80
+					className='formSection-input text-xl outline-none p-3 drop-shadow-xl placeholder:italic rounded-l-md sm:w-80
 					pl-5 text-neutral-500 italic font-medium focus:border-green-700 focus:border-2'
 					autoFocus
 					placeholder='add a new task . . .'
